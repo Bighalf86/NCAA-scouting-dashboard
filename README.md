@@ -3,7 +3,7 @@ _Visual dashboard for NCAA basketball player scouting. Built using Tableau; data
 
 ## 📌 Overview
 
-This project presents an MVP (Minimum Viable Product) of a **basketball scouting dashboard**, built using **Tableau** and based on real user insights from a semi-structured interview with a head coach (HC). The goal was to create a visual analytics tool that helps **analyse and explore a large player database (5,100+ records)** in an intuitive and interactive way.
+This project presents an MVP (Minimum Viable Product) of a **basketball scouting dashboard**, built using **Tableau** and based on real user insights from a semi-structured interview with a professional basketball head coach. The goal was to create a visual analytics tool that helps **analyse and explore a large player database (5,100+ records)** in an intuitive and interactive way.
 
 The NCAA player database was created by **extracting data from publicly available sources**, including **RealGM**, **ESPN**, and **KenPom.com**. The data was then **cleaned and transformed in Excel using Power Query** to prepare it for use in Tableau.
 
